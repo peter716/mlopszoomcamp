@@ -6,4 +6,5 @@
 02-experiment-tracking/homework/mlflow.db
 02-experiment-tracking/homework/mlruns/*
 02-experiment-tracking/homework/artifacts/*
+02-experiment-tracking/homework/backend.db
 mlflow.db
