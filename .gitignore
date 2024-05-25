@@ -2,4 +2,8 @@
 02-experiment-tracking/mlflow.db
 02-experiment-tracking/models/*
 02-experiment-tracking/preprocessor/*
+02-experiment-tracking/homework/output/*
+02-experiment-tracking/homework/mlflow.db
+02-experiment-tracking/homework/mlruns/*
+02-experiment-tracking/homework/artifacts/*
 mlflow.db
