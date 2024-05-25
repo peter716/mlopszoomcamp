@@ -8,3 +8,6 @@ To launch mlflow
 ` mlflow ui --backend-store-uri sqlite:///mlflow.db`
 To run preprocess_data.py:
 `python preprocess_data.py --raw_data_path /home/ubuntu/data --dest_path artfifacts/`
+
+
+
