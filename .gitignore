@@ -1,3 +1,4 @@
+01-intro/models/*
 02-experiment-tracking/mlruns/*
 02-experiment-tracking/mlflow.db
 02-experiment-tracking/models/*
