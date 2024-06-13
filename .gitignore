@@ -8,4 +8,7 @@
 02-experiment-tracking/homework/mlruns/*
 02-experiment-tracking/homework/artifacts/*
 02-experiment-tracking/homework/backend.db
+03-orchestration/mlops/dict_vectorizer.pkl
+04-deployment/web-service/lin_reg.bin
+04-deployment/web-service-mlflow/mlflow.db
 mlflow.db
