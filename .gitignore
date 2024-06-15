@@ -15,5 +15,6 @@
 04-deployment/homeworks/output/*
 04-deployment/homeworks/model.bin
 04-deployment/web-service/lin_reg.bin
+04-deployment/batch/homework/output/*
 mlflow.db
 
