@@ -46,6 +46,7 @@ output_file = f'output/{taxi_type}/{taxi_type}_tripdata_{year:04d}-{month:02d}.p
 df = read_data(input_file)
 
 
+
 dicts = df[categorical].to_dict(orient='records')
 X_val = dv.transform(dicts)
 y_pred = model.predict(X_val)
@@ -78,6 +79,6 @@ df_result.to_parquet(
 
 # In[ ]:
 
-
+#python script.py yellow 2023 4
 
 

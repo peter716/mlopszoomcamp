@@ -58,7 +58,7 @@ def apply_model(input_file, run_id, output_file):
 
     print(f"loading the model from {run_id}")
     model = load_model(run_id)
-    print('print model')
+    print('making prediction with model')
     y_pred = model.predict(dicts)
 
     df_result = pd.DataFrame()
